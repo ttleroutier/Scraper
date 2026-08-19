@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+browser_profile/
+.streamlit/secrets.toml
